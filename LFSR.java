@@ -1,12 +1,3 @@
-/* *****************************************************************************
- * Name: Vicki Yang
- * NetID: vyang
- * Precept: 04
- *
- * Description: This is an implementation of the data type LFSR, which simulates
- *              the operation of a linear-feedback shift register.
- **************************************************************************** */
-
 public class LFSR {
 
     private final int n; // number of bits in LFSR
