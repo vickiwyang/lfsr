@@ -6,4 +6,4 @@
 
 --
 
-*This assignment was completed as part of COS 126 at Princeton University.*
+*This assignment was completed as part of COS 126 at Princeton University in Spring 2020.*
