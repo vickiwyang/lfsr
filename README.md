@@ -1,6 +1,8 @@
 # lfsr
 
-**LSFR.java** simulates the operation of a [Linear Feedback Shift Register (LFSR)](https://en.wikipedia.org/wiki/Linear-feedback_shift_register). **PhotoMagic.java** implements the LFSR data type to encrypt and decrypt digital pictures.
+**LSFR.java** simulates the operation of a [Linear Feedback Shift Register (LFSR)](https://en.wikipedia.org/wiki/Linear-feedback_shift_register).
+
+**PhotoMagic.java** implements the LFSR data type to encrypt and decrypt digital pictures.
 
 --
 
